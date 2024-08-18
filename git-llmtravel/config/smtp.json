@@ -1,0 +1,11 @@
+{
+	"email": {
+		"smtp_server": "smtp.gmail.com",
+		"port": 465,
+        "imap_url": "imap.google.com",
+		"use_tls": true,
+		"username": "llmtravelmock@gmail.com",
+		"password": "xyz",
+		"from_email": "llmtravelmock@gmail.com"
+    }
+}

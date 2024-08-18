@@ -1,0 +1,4 @@
+imaplib
+sqlalchemy
+openai
+smtplib

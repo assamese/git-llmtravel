@@ -1,0 +1,10 @@
+{
+	"database": {
+		"engine": "postgresql",
+		"name": "LLMTravel-db1",
+		"user": "LLMTravel-db1_owner",
+		"password": "xyz",
+		"host": "ep-ancient-pond-a5jpapqu.us-east-2.aws.neon.tech/LLMTravel-db1",
+		"port": 5432
+	}
+}
